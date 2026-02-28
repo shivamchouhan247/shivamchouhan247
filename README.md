@@ -1,132 +1,171 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shivam%20Chouhan&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Backend%20Engineer%20%7C%20Fintech%20%7C%20Microservices%20Architect&descAlignY=58&descSize=18&descColor=a0c4ff" />
+<!--=====================================================-->
+<!--              CINEMATIC HEADER BANNER                -->
+<!--=====================================================-->
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=☕+Java+Backend+Engineer+%40+Fintech;🔗+Integrated+27%2B+eKYC+APIs+in+Production;⚡+10%2C000%2B+Daily+Verification+Requests;📉+800ms+→+120ms+DB+Optimization;🏦+50K%2B+Monthly+Transactions+Managed;🧠+400%2B+DSA+Problems+Solved" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1b2a,60:1b263b,100:415a77&height=280&section=header&text=SHIVAM%20CHOUHAN&fontSize=72&fontColor=00f5ff&animation=fadeIn&fontAlignY=40&stroke=00f5ff&strokeWidth=1&desc=⬡%20Java%20Backend%20Engineer%20%20·%20%20Fintech%20%20·%20%20Microservices%20Architect%20⬡&descSize=16&descAlignY=62&descColor=778da9"/>
 
-<br/><br/>
+<!--=====================================================-->
+<!--                  TYPING TERMINAL                    -->
+<!--=====================================================-->
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    SOCIAL BADGES                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
-<a href="mailto:chouhan2shivam@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/shivam-chouhan12">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/shivamchouhan247">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/ShivamChouhan">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&random=false&width=750&height=45&lines=☕+Java+Backend+Engineer+%40+Fintech;🔗+Integrated+27%2B+eKYC+APIs+in+Production;⚡+10%2C000%2B+Daily+Verification+Requests;📉+800ms+→+120ms+DB+Optimization;🏦+50K%2B+Monthly+Transactions+Managed;🧠+400%2B+DSA+Problems+Solved;🛡️+JWT+%2B+RBAC+Security+Architect;🚀+99.8%25+Uptime+in+Production" alt="Typing SVG" />
+
+<br/>
+
+<!--=====================================================-->
+<!--                  SOCIAL LINKS                       -->
+<!--=====================================================-->
+
+[![Gmail](https://img.shields.io/badge/◈_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chouhan2shivam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-chouhan12)
+[![GitHub](https://img.shields.io/badge/◈_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamchouhan247)
+[![LeetCode](https://img.shields.io/badge/◈_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ShivamChouhan)
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shivamchouhan247&label=Profile+Views&color=00d9ff&style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Experience-1.8+Years-00d9ff?style=for-the-badge&logo=openjdk&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+![Profile Views](https://komarev.com/ghpvc/?username=shivamchouhan247&label=◈+PROFILE+VIEWS&color=00f5ff&style=for-the-badge)
+![Experience](https://img.shields.io/badge/◈_EXPERIENCE-1.8+YRS_FINTECH-00f5ff?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/◈_STATUS-OPEN_TO_WORK-39ff14?style=for-the-badge)
 
 </div>
 
+<br/>
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<div align="center">
+<picture>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</picture>
+</div>
 
-## 🧑‍💻 About Me
+<br/>
+
+<!--=====================================================-->
+<!--               HOLOGRAPHIC ABOUT ME                  -->
+<!--=====================================================-->
+
+## ⬡ &nbsp;SYSTEM PROFILE
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```java
 /**
- * @author   Shivam Chouhan
- * @role     Java Backend Engineer — Fintech
- * @location Indore, India 🇮🇳
- * @since    2023
+ * ╔══════════════════════════════╗
+ * ║    ENGINEER.profile.load()   ║
+ * ╚══════════════════════════════╝
+ *
+ * @id       ShivamChouhan247
+ * @class    Java Backend Engineer
+ * @domain   Fintech | Microservices
+ * @base     Indore, India  🇮🇳
+ * @status   Open to Work  ✅
  */
-@Profile
-public class ShivamChouhan extends Engineer {
+@Engineer(domain = "Fintech")
+public class ShivamChouhan {
 
-    private final String  experience  = "1.8 Years in Fintech";
-    private final int     dsaSolved   = 400;          // and counting...
-    private final int     ekycAPIs    = 27;           // third-party integrations
-    private final int     dailyReqs   = 10_000;       // verification requests/day
-    private final String  dbOptimized = "800ms → 120ms";
-    private final String  walletScale = "50K+ monthly transactions";
-    private final String  uptime      = "99.8%";
-    private final String[] strengths  = {
-        "Microservices Architecture",
-        "JWT + RBAC Security",
-        "High-Performance REST APIs",
-        "Fintech eKYC Systems",
-        "DSA & Problem Solving"
-    };
+  String  xp        = "1.8 Years";
+  int     ekycAPIs  = 27;
+  int     reqPerDay = 10_000;
+  String  dbGain    = "800ms → 120ms";
+  String  wallet    = "50K+ txns/month";
+  String  uptime    = "99.8%";
+  int     dsa       = 400; // solved++
 
-    @Override
-    public String getMission() {
-        return "Building secure, scalable fintech systems — performance at the core 🚀";
-    }
+  String[] stack = {
+    "Java 21", "Spring Boot 3",
+    "Microservices", "AWS",
+    "Docker", "Kubernetes"
+  };
+
+  void run() {
+    while (true) ship(); // 🚀
+  }
 }
 ```
 
-- 💻 **1.8 years** of Java backend experience in the Fintech domain
-- 🔗 Integrated **27+ third-party eKYC APIs** in production
-- ⚡ Systems handling **10,000+ verification requests daily**
-- 📉 Improved DB query time from **800ms → 120ms** (85% faster)
-- 🏦 Built wallet system managing **50K+ monthly transactions**
-- 🔐 Implemented **JWT Authentication & Role-Based Access Control**
-- ☁️ Deploying scalable microservices on **AWS**
-- 🎓 Completed **450+ hour** Wipro Full Stack Training
-- 🏅 Systems running at **99.8% uptime**
+</td>
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<br/>
+
+**`> LOADING MISSION PARAMETERS...`**
+
+```
+╭─────────────────────────────────────╮
+│  🎯  CURRENT MISSION                │
+│  Build secure, blazing-fast         │
+│  fintech systems at scale           │
+├─────────────────────────────────────┤
+│  📡  SIGNAL STRENGTH                │
+│  ████████████████████  99.8% UP     │
+├─────────────────────────────────────┤
+│  🔗  eKYC API INTEGRATIONS          │
+│  ████████████████████  27+ LIVE     │
+├─────────────────────────────────────┤
+│  ⚡  DAILY REQUEST THROUGHPUT       │
+│  ████████████████████  10K+ / DAY   │
+├─────────────────────────────────────┤
+│  📉  DB QUERY OPTIMIZATION          │
+│  ████████████████████  800→120ms    │
+├─────────────────────────────────────┤
+│  🧠  DSA PROBLEMS SOLVED            │
+│  ████████████████████  400+  🔥     │
+╰─────────────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## 📊 Impact Snapshot
+<!--=====================================================-->
+<!--                   TECH STACK                        -->
+<!--=====================================================-->
 
-<div align="center">
+## ⬡ &nbsp;TECH STACK &nbsp;`// weapons of choice`
 
-| 🔗 eKYC Integrations | ⚡ Daily Verifications | 📉 DB Optimized | 🏦 Monthly Txns | 🧠 DSA Solved | 🚀 Uptime |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **27+ APIs** | **10,000+ / day** | **800ms → 120ms** | **50K+** | **400+** | **99.8%** |
+<br/>
 
-</div>
+### &nbsp;&nbsp;`[ 01 ]` &nbsp;☕ &nbsp;Java Ecosystem
 
----
-
-## 🛠️ Tech Stack
-
-### ☕ Java Ecosystem
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate_6-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 </div>
 
-### 🗄️ Database
+<br/>
+
+### &nbsp;&nbsp;`[ 02 ]` &nbsp;🗄️ &nbsp;Database
+
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL_8-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_7-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
-### ☁️ Cloud & DevOps
+<br/>
+
+### &nbsp;&nbsp;`[ 03 ]` &nbsp;☁️ &nbsp;Cloud · DevOps · Infra
+
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
@@ -137,21 +176,27 @@ public class ShivamChouhan extends Engineer {
 
 </div>
 
-### 🔧 Tools
+<br/>
+
+### &nbsp;&nbsp;`[ 04 ]` &nbsp;🔧 &nbsp;Tools & Workflow
+
 <div align="center">
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </div>
 
-### 🧠 CS Fundamentals
+<br/>
+
+### &nbsp;&nbsp;`[ 05 ]` &nbsp;🧠 &nbsp;CS Core
+
 <div align="center">
 
-![DSA](https://img.shields.io/badge/DSA-400%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![DSA](https://img.shields.io/badge/DSA-400%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![System Design](https://img.shields.io/badge/System_Design-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design_Patterns-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -159,63 +204,105 @@ public class ShivamChouhan extends Engineer {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
----
-
-## 📈 GitHub Stats & Streak
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivamchouhan247&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamchouhan247&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=FF6B35&currStreakLabel=00d9ff&sideLabels=00d9ff" />
-</div>
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchouhan247&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&langs_count=6" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamchouhan247&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 Achievement | 📌 Details |
-|:---|:---|
-| 🧠 DSA Grind | **400+ problems** solved on LeetCode & GFG |
-| ☁️ AWS Certification | Cloud Practitioner *(In Progress)* |
-| 🎓 Wipro Training | Completed **450+ hour** Full Stack Bootcamp |
-| 🚀 Production Uptime | Maintained **99.8% uptime** on live fintech systems |
-| ⚡ Performance Win | Reduced DB query time by **85%** (800ms → 120ms) |
-| 🔗 API Integrations | Connected **27+ third-party eKYC APIs** |
-| 🏦 Fintech Scale | Wallet system powering **50K+ monthly transactions** |
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<div align="center">
-
-### 💬 *"Building secure, scalable fintech systems with performance at the core."*
-
-**— Shivam Chouhan · 📍 Indore, India**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=footer" />
+<!--=====================================================-->
+<!--                  GITHUB STATS                       -->
+<!--=====================================================-->
+
+## ⬡ &nbsp;GITHUB TELEMETRY
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivamchouhan247&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&ring_color=00f5ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamchouhan247&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=FF6B35&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=778da9" />
+
+<br/>
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamchouhan247&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=6" />
+
+</div>
+
+<br/>
+
+---
+
+<!--=====================================================-->
+<!--                   TROPHIES                          -->
+<!--=====================================================-->
+
+## ⬡ &nbsp;TROPHIES
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shivamchouhan247&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+</div>
+
+<br/>
+
+---
+
+<!--=====================================================-->
+<!--                  ACHIEVEMENTS                       -->
+<!--=====================================================-->
+
+## ⬡ &nbsp;MISSION LOG `// verified achievements`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   🔗  27+ eKYC APIs integrated in live production systems               │
+│   ⚡  10,000+ daily verification requests handled seamlessly            │
+│   📉  85% DB performance boost  ·  800ms → 120ms query time            │
+│   🏦  Wallet engine powering 50K+ monthly transactions                  │
+│   🛡️  JWT + RBAC security layer built from scratch                      │
+│   🧠  400+ DSA problems solved on LeetCode & GFG                        │
+│   🚀  99.8% production uptime across all fintech microservices          │
+│   🎓  450+ hour Wipro Full Stack Certification Bootcamp                 │
+│   ☁️  AWS Cloud Practitioner Certification  ·  (In Progress)           │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+---
+
+<!--=====================================================-->
+<!--                  QUOTE + FOOTER                     -->
+<!--=====================================================-->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   " Building secure, scalable fintech systems — performance at core "   ║
+║                                                                          ║
+║                    — Shivam Chouhan  ·  Indore, India  🇮🇳              ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d1b2a,60:1b263b,100:415a77&height=140&section=footer"/>
 
 </div>
