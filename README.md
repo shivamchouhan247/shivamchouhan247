@@ -4,7 +4,7 @@
 <!--              CINEMATIC HEADER BANNER                -->
 <!--=====================================================-->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1b2a,60:1b263b,100:415a77&height=280&section=header&text=SHIVAM%20CHOUHAN&fontSize=72&fontColor=00f5ff&animation=fadeIn&fontAlignY=40&stroke=00f5ff&strokeWidth=1&desc=⬡%20Java%20Backend%20Engineer%20%20·%20%20Fintech%20%20·%20%20Microservices%20Architect%20⬡&descSize=16&descAlignY=62&descColor=778da9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1b2a,60:1b263b,100:415a77&height=280&section=header&text=SHIVAM%20CHOUHAN&fontSize=72&fontColor=00f5ff&animation=fadeIn&fontAlignY=40&stroke=00f5ff&strokeWidth=1&desc=⬡%20Java%20Backend%20Engineer%20%20·%20%20Fintech%20%20·%20%20Microservices&descSize=16&descAlignY=62&descColor=778da9"/>
 
 <!--=====================================================-->
 
@@ -48,7 +48,6 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
 ```java
 /**
  * ╔══════════════════════════════╗
@@ -90,7 +89,6 @@ public class ShivamChouhan {
 <br/>
 
 **`> LOADING MISSION PARAMETERS...`**
-
 ```
 ╭─────────────────────────────────────╮
 │  🎯  CURRENT MISSION                │
@@ -252,7 +250,6 @@ public class ShivamChouhan {
 ## ⬡ &nbsp;MISSION LOG `// verified achievements`
 
 <div align="center">
-
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                                                                         │
@@ -288,7 +285,6 @@ public class ShivamChouhan {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <br/>
-
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
