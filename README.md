@@ -7,10 +7,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d1b2a,60:1b263b,100:415a77&height=280&section=header&text=SHIVAM%20CHOUHAN&fontSize=72&fontColor=00f5ff&animation=fadeIn&fontAlignY=40&stroke=00f5ff&strokeWidth=1&desc=⬡%20Java%20Backend%20Engineer%20%20·%20%20Fintech%20%20·%20%20Microservices%20Architect%20⬡&descSize=16&descAlignY=62&descColor=778da9"/>
 
 <!--=====================================================-->
-<!--                  TYPING TERMINAL                    -->
-<!--=====================================================-->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&random=false&width=750&height=45&lines=☕+Java+Backend+Engineer+%40+Fintech;🔗+Integrated+27%2B+eKYC+APIs+in+Production;⚡+10%2C000%2B+Daily+Verification+Requests;📉+800ms+→+120ms+DB+Optimization;🏦+50K%2B+Monthly+Transactions+Managed;🧠+400%2B+DSA+Problems+Solved;🛡️+JWT+%2B+RBAC+Security+Architect;🚀+99.8%25+Uptime+in+Production" alt="Typing SVG" />
 
 <br/>
 
